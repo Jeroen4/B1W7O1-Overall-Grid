@@ -74,7 +74,6 @@ h2{
 .article2{
 	grid-column-start: 2;
 	grid-column-end: 3;
-	text-align: center;
 }
 .article-2{
 	grid-column-start: 2;
