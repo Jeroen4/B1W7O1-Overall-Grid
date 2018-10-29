@@ -12,9 +12,10 @@ body{
 h1{
 	color: white;
 	position: absolute;
-	left: 890px;
+	left: 853px;
 	bottom: 470px;
 	width: 300px;
+	padding: 15px;
 	font-size: 26px;
 	line-height: 30px;
 }
@@ -22,9 +23,9 @@ h1{
 #intro{
 	color: white;
 	position: absolute;
-	left: 890px;
-	bottom: 220px;
-	width: 250px;
+	left: 870px;
+	bottom: 210px;
+	width: 280px;
 }
 
 h2{
@@ -36,6 +37,10 @@ h2{
 a{
 	color: black;
 	text-decoration: none;
+}
+
+a:hover{
+	color: lightblue;
 }
 
 .container{
@@ -70,7 +75,7 @@ a{
 	width: 690px;
 	height: 320px;
 	position: absolute;
-	left: 180px;
+	left: 150px;
 	top: 140px;	
 }
 
